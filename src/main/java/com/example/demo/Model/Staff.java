@@ -22,5 +22,5 @@ public class Staff {
     @Column(name="Last_name")
     private String lastname;
 
-    
+
 }
